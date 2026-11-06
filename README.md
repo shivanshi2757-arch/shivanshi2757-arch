@@ -1,46 +1,51 @@
-# Hi there, I'm Shivanshi👋
+# 👋 Hi, I'm Shivanshi Yadav
 
-I'm a **Full-Stack Developer** passionate about building accessible web apps and developer tools. Currently exploring cloud infrastructure and microservices.
+### 💻 Aspiring Developer | Java | C | HTML
 
-- 🔭 I’m currently working on an open-source analytics dashboard.
-- 🌱 I’m currently learning **Rust** and **Kubernetes**.
-- 👯 I’m looking to collaborate on open-source web applications.
-- 💬 Ask me about **React, Node.js, and SQL**.
-- 📫 How to reach me: alex@example.com
+Welcome to my GitHub profile! I'm **Shivanshi Yadav**, a passionate learner who enjoys coding, exploring technology, and building projects.
+
+I’m currently developing my programming skills and learning how to turn ideas into practical applications. I enjoy solving problems through code and continuously improving my technical knowledge.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ My Skills
 
-**Languages:** JavaScript, TypeScript, Python, HTML/CSS  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, PostgreSQL, Redis  
-**DevOps & Tools:** Git, Docker, AWS, Jest  
-
----
-
-### 📊 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radial)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
 ---
 
-### 📫 Connect with Me
+## 🌱 Currently Learning
 
-[Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)## Hi there 👋
+- Improving my Java programming skills
+- Strengthening my C fundamentals
+- Learning web development with HTML
+- Building projects to gain practical experience
 
-<!--
-**shivanshi2757-arch/shivanshi2757-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 My Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build interesting and useful projects
+- Improve my problem-solving skills
+- Learn new technologies
+- Grow as a software developer
+
+---
+
+## 📂 My Projects
+
+I'm working on building my project portfolio. Stay tuned for more projects coming soon! 🚀
+
+---
+
+## 📫 Connect With Me
+
+I'm always open to learning, collaborating, and connecting with fellow developers.
+
+**Thanks for visiting my profile! 💙**
+
+⭐ Feel free to explore my repositories and follow my journey as I learn and build.
